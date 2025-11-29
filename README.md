@@ -1,4 +1,4 @@
-# <h1>Monoprix France – BI & AI Analytics Project</h1>
+# <h1> Retail – BI & AI Analytics Project</h1>
 
 ## <h2>📝 Overview</h2>
 This project combines Business Intelligence (BI) and Artificial Intelligence (AI) to assist Monoprix France in:
@@ -158,8 +158,9 @@ It also demonstrates my ability to:
 ## <h2>🌐 Connect with Me</h2>
 If you found this project valuable or inspiring, feel free to reach out!
 
-- 📧 **Email**: faresguesmi815@gmail.com
-- 📩 **My LinkedIn Account**: <a href="https://www.linkedin.com/in/fares-guesmi-6aa849262/">Fares Guesmi</a>
+- 📧 **Email**: b22me045@iitj.ac.in
+
+
 
 ## <h2>⭐ Give It a Star!</h2>
 If you like this project, don't forget to star this repository! ⭐
